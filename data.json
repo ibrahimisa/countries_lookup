@@ -1,0 +1,23 @@
+[
+
+    {
+        "name": "Nigeria",
+        "topLevelDomain": [
+            ".ng"
+        ],
+        "alpha2Code": "NG",
+        "alpha3Code": "NGA",
+        "callingCodes": [
+            "234"
+        ],
+        "capital": "Abuja",
+        "altSpellings": [
+            "NG",
+            "Nijeriya",
+            "Naíjíríà",
+            "Federal Republic of Nigeria"
+        ],
+        "region": "Africa"
+    }
+
+]
