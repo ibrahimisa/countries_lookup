@@ -37,7 +37,7 @@ function load(query){
     const XHR = new XMLHttpRequest();
     console.log(query);
     XHR.onreadystatechange = handler;
-    XHR.open('GET', `data.json`)
+    XHR.open('GET', `${BASE_URL}${endPoint}/${query}?access_key=${API_KEY}`)
     XHR.send();
 
     function handler(){
