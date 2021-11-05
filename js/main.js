@@ -1,5 +1,5 @@
 const BASE_URL = 'http://api.countrylayer.com/v2/',
-    API_KEY = '3bd0b80069dcd5944934df2a61bbb93e',
+    API_KEY = 'd8d3087170384e6a73bfd38187873964',
     FLAG_BASE_URL = 'https://api.backendless.com/2F26DFBF-433C-51CC-FF56-830CEA93BF00/473FB5A9-D20E-8D3E-FF01-E93D9D780A00/files/CountryFlagsPng/';
 
 const selectEndPoint = selectElement('#end-point');
